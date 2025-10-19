@@ -1,6 +1,5 @@
 # Ai-mock-interview
 
-## Project Title & Description
 
 AI Interview Mocker is a web application designed to help users prepare for job interviews using AI-powered simulations and feedback. This project aims to double the chances of landing a job offer by providing realistic interview practice.
 
